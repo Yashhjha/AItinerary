@@ -41,19 +41,19 @@ Plan your trips effortlessly with a web app that suggests personalized itinerari
 
 <p>
 Home Page:  
-<img src="/ai-trip-planner/public/homepage.png" alt="">
+<img src="https://github.com/Yashhjha/AItinerary/blob/main/public/homepage.png?raw=true" alt="HomePage">
 
 Sign In with Google:  
-<img src="/ai-trip-planner/public/googlelogin.png" alt="">
+<img src="https://github.com/Yashhjha/AItinerary/blob/main/public/googlelogin.png?raw=true" alt="Sign in with google">
 
 Trip Creation Page:  
-<img src="YOUR_IMAGE_HERE" alt="">
+<img src="" alt="">
 
 View Trip: AI-recommended hotels and attractions  
-<img src="/ai-trip-planner/public/trip.png" alt="" width="75%" align="center">
+<img src="https://github.com/Yashhjha/AItinerary/blob/main/public/trip.png?raw=true" alt="View trip" width="75%" align="center">
 
 My Trips Overview:  
-<img src="/ai-trip-planner/public/alltrips.png" alt="">
+<img src="https://github.com/Yashhjha/AItinerary/blob/main/public/alltrips.png?raw=true" alt="My trips overview">
 
 
 
