@@ -12,7 +12,7 @@ Plan your trips effortlessly with a web app that suggests personalized itinerari
 </p>
 
 <h3 align="center">
-<a href="#" target="_blank">📱 Launch Project</a>
+<a href="https://aitinerary-eight.vercel.app/" target="_blank">📱 AItinerary</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Tech Stack</h2>
